@@ -1,0 +1,74 @@
+body {
+
+   background:#ffffff
+   
+      }
+
+   #barbearia{
+      width: 100%;
+ 
+   }
+
+    .principal{
+    
+      background:#cccccc;
+      padding: 20px; 
+   }    
+
+   .titulo-principal{
+
+       padding-left:20px ;
+   }
+
+   .titulo-centralizado{
+
+      text-align: center;
+
+   }  
+
+
+      p {
+    text-align: center;
+   }
+
+   #missao{
+
+      font-size:20px;
+
+   }
+
+   em strong{
+
+color:red;
+
+   }
+
+   .itens {
+
+font-style: italic;
+
+   }
+
+   .beneficios{
+
+background: #ffffff;
+padding: 20px; 
+
+   }
+
+
+ul{
+
+display: inline-block;
+vertical-align: top;
+width: 20%;
+margin-right: 15%;
+
+}
+
+
+   .barba{
+
+width: 40%;
+
+   }
